@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+lsklongzhu
 
 ## What it does
 
-FEATURES PLACEHOLDER
+lsklongzhu
 
 ## Getting started
 
